@@ -1,12 +1,21 @@
 [
-  "hubot-diagnostics",
-  "hubot-help",
-  "hubot-heroku-keepalive",
   "hubot-google-images",
-  "hubot-google-translate",
   "hubot-pugme",
+  "hubot-manpages",
   "hubot-maps",
+  "hubot-urban",
+  "hubot-meme",
+  "hubot-howdoi",
+  "hubot-search",
+  "hubot-has-no-idea",
   "hubot-redis-brain",
+  "hubot-taboo-topics",
+  "hubot-encourage",
+  "hubot-plusplus",
+  "hubot-darts",
+  "hubot-youtube",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-codenames",
+  "hubot-jokes",
+  "hubot-victory"
 ]
